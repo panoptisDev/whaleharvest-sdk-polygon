@@ -1,1 +1,1 @@
-# whaleharvest SDK Polygon
+# WhaleHarvest SDK Polygon
