@@ -1,1 +1,1 @@
-# EddaSwap SDK Polygon
+# whaleharvest SDK Polygon
