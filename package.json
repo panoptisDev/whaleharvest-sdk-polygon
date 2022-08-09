@@ -1,16 +1,16 @@
 {
-  "name": "@eddaswap/sdk-polygon",
+  "name": "@whaleharvest/sdk-polygon",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of eddaswap.",
+  "description": "🛠 An SDK for building applications on top of whaleharvest.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/EddaSwap/eddaswap-sdk-polygon.git",
+  "repository": "https://github.com/panoptisDev/whaleharvest-sdk-polygon",
   "keywords": [
-    "eddaswap",
+    "whaleharvest",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",

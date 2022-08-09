@@ -66,7 +66,7 @@ export const WETH = {
   ),
   [ChainId.BSCTESTNET]: new Token(
     ChainId.BSCTESTNET,
-    '0xaE8E19eFB41e7b96815649A6a60785e1fbA84C1e', // TODO: change to correct address
+    '0x20c9560d42566d6ead1da3dc84137e84838fa696', // wmatic on mumbai
     18,
     'WMATIC',
     'Wrapped Matic'
